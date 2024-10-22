@@ -17,5 +17,5 @@ sourceSets {
 }
 
 dependencies {
-   compile name: 'koans'
+   implementation('name:koans')
 }
